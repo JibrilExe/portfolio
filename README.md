@@ -4,6 +4,10 @@ Hey, I am Cedric and here I will try to list some of my recent projects.
 
 ## Academic assignments
 
+### Software engineer lab 2
+
+- [SEL2](https://github.com/SELab-2/UGent-3)
+
 ### Datavisualisation
 - [project-dv25-3](https://github.com/Datavisualiatie-UGent/project-dv25-3)
 
