@@ -1,6 +1,6 @@
 # Portfolio
 
-Hey, I am Cedric and here I will try to list some of my recent projects.
+Hey, I am Cedric and here I listed some of my recent projects.
 
 ## Free time experiments
 - [event-manager](https://github.com/JibrilExe/event-manager)  (Controller-service-model architecture to store events and notify users, built in Python and Docker)
@@ -17,7 +17,7 @@ Hey, I am Cedric and here I will try to list some of my recent projects.
 - [project-dv25-3](https://github.com/Datavisualiatie-UGent/project-dv25-3)  (Used Observable framework to represent insights between people and science)
 
 ### Discrete algorithms
-- [vehicle-routing](https://github.com/JibrilExe/vehicle-routing)  (NLNS algoritme toegepast om capacitated vehicle routing probleem op te lossen, Python)
+- [vehicle-routing](https://github.com/JibrilExe/vehicle-routing)  (Applied NLNS algorithm to approach the capacitated vehicle routing problem, Python)
 - [max-clique](https://github.com/JibrilExe/max-clique)  (Graph neural network approach to solve max clique problem, Python)
 
 ### Information security
