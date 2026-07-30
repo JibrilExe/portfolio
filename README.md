@@ -27,4 +27,3 @@ Final-year MSc Computer Science student | Embedded software (AnTARES rocket team
 
 ## Others
 - **[voting](https://github.com/JibrilExe/voting)** – Secure online voting demo (Python, React).
-- **[ETF_or_Loan](https://github.com/JibrilExe/ETF_or_Loan)** – C++ simulator comparing ETF vs. mortgage scenarios.
