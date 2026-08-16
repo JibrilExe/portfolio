@@ -1,6 +1,6 @@
 # Portfolio – Cedric Mekeirle
 
-Final-year MSc Computer Science student | Embedded software (AnTARES rocket team) | Python data engineer (Peliqan)
+Full time embedded software engineer (Barco) | Embedded software (AnTARES rocket team)
 [LinkedIn](https://www.linkedin.com/in/cedric-mekeirle-058337252)
 
 ## Developer Projects
