@@ -3,6 +3,9 @@
 Full time embedded software engineer (Barco) | Embedded software (AnTARES rocket team)
 [LinkedIn](https://www.linkedin.com/in/cedric-mekeirle-058337252)
 
+Free time aerospace enjoyer:
+[Aerospace project portfolio](https://jibrilexe.github.io/portfolio-better/)
+
 ## Developer Projects
 - **[event-manager – Event Notification API](https://github.com/JibrilExe/event-manager)**  
   API to register events & send notifications (Python, PostgreSQL, Docker, pytest testing).
